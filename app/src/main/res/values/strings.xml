@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">latihan 1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="kode_keluarga"> Dengan menekan tombol masuk berarti anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data Kami</b> </string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_layout_code">layout_code</string>
+
+</resources>
